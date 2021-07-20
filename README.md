@@ -6,6 +6,32 @@
 
 # SISTEM ANTRIAN
 
+
+## DEMO SISTEM ANTRIAN
+#### Demo : https://antrianasus.000webhostapp.com/
+a. Admin 
+<br> username : admin
+<br> password : aaa
+
+b. Loket 
+<br>username : loket1 
+<br> password : aaa
+ 
+<br>username : loket2
+<br> password : aaa
+
+<br>username : loket3
+<br> password : aaa
+
+<br>username : loket4
+<br> password : aaa
+
+
+
+
+
+
+
 ## 1.	Dashboard Antrian/homepage
 
 Dashboard antrian menampilkan informasi antrian pengunjung yang sedang dipanggil pada masing-masing loket. Dilengkapi dengan video yang dapat digunakan untuk menampilkan profil perusahaan, informasi produk, serta terdapat link untuk membuka menu antrian dan login.
