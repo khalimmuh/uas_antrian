@@ -6,6 +6,8 @@
 
 # SISTEM ANTRIAN
 
+## Penjelasan pada youtube
+https://youtu.be/oDCoVHlAGjQ
 
 ## DEMO SISTEM ANTRIAN
 #### Demo : https://antrianasus.000webhostapp.com/
